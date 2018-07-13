@@ -1,2 +1,2 @@
 # checkers
-a simple console chekers game based on https://simple.wikipedia.org/wiki/Checkers
+a simple console checkers game based on https://simple.wikipedia.org/wiki/Checkers
